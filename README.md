@@ -13,8 +13,7 @@ Merhaba kısaca kendimden bahsetmem gerekirse, CEH sertifikasını kucaklamaya <
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NoRealOwner&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 😂 Random Dev Meme
-<img src='![image](https://github.com/NoRealOwner/NoRealOwner/assets/140075863/e7d2098f-f0ed-4ac0-9c21-fe65a1508234)
- style="height: 400px;"/>
+<![image](https://github.com/NoRealOwner/NoRealOwner/assets/140075863/d7ab61cd-838f-491f-83a1-3d3e242eb391)>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NoRealOwner&icon=5&color=8)](https://visitcount.itsvg.in)

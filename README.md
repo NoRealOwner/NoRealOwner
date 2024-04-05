@@ -1,5 +1,5 @@
 # 💫 About Me:
-Merhaba kısaca kendimden bahsetmem gerekirse, CEH sertifikasını kucaklamaya <br>çalışıyorum. Adım adım bu dünyada ilerliyorum, Python üzerine çalışarak <br>pentesting alanında uygulamalar yazmaya çalışıyorum.Bir güvenlik operasyon <br>merkezinde (SOC) L1 pozisyonunda çalışıyorum.<br><br>GitHub profilimde, siber güvenlikle ilgili keşiflerimi, öğrenme süreçlerimi <br>ve deneyimlerimi paylaşıyorum. Bu alanda ilerlemeye ve topluluğa katkı <br>sağlamaya kararlıyım. 
+Hi there, just a quick intro about myself: I'm pursuing the CEH certification and currently working in a Security Operations Center (SOC) at the L1 level. My main focus is on Python and developing pentesting applications. On my GitHub profile, I share my cybersecurity discoveries, learning journey, and contributions to the community.
 
 
 ## 🌐 Socials:
